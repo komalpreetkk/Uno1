@@ -51,5 +51,5 @@ public class GroupOfCards {
     public void setSize(int size) {
         this.size = size;
     }
-
+//making some changes
 }//end class
